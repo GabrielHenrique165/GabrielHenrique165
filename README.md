@@ -19,4 +19,4 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 gabriel.h.silva242007@gmail.com
-![https://gifer.com/pt/gifs/pikachu](link)
+![https://i.gifer.com/WiCJ.gif](link)
