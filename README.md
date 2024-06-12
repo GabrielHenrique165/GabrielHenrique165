@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Meu nome é Gabriel Henrique
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 gabriel.h.silva242007@gmail.com
-![https://i.gifer.com/WiCJ.gif](link)
+![pikachu](link)
+
